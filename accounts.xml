@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Accounts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Account>
+    <Username>user1</Username>
+    <Password>123456</Password>
+    <Balance>3000</Balance>
+  </Account>
+  <Account>
+    <Username>user2</Username>
+    <Password>abcdef</Password>
+    <Balance>10000</Balance>
+  </Account>
+  <Account>
+    <Username>user3</Username>
+    <Password>qwerty</Password>
+    <Balance>7500</Balance>
+  </Account>
+</Accounts>
