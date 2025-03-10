@@ -12,3 +12,4 @@ D:\Desktop\HocTrenTruong\Lab9_10\obj\Debug\net8.0\refint\Lab9_10.dll
 D:\Desktop\HocTrenTruong\Lab9_10\obj\Debug\net8.0\Lab9_10.pdb
 D:\Desktop\HocTrenTruong\Lab9_10\obj\Debug\net8.0\Lab9_10.genruntimeconfig.cache
 D:\Desktop\HocTrenTruong\Lab9_10\obj\Debug\net8.0\ref\Lab9_10.dll
+D:\Desktop\HocTrenTruong\Lab9_10\obj\Debug\net8.0\Lab9_10.sourcelink.json
